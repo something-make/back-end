@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: something-back
+server:
+  port: 8081
+
+
