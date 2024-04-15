@@ -11,3 +11,8 @@ public class SomethingBackApplication {
     }
 
 }
+
+// OOP Singleton
+
+
+
