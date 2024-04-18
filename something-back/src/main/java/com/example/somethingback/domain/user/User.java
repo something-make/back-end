@@ -13,7 +13,7 @@ public class User {
     @GeneratedValue(strategy = GenerationType.UUID)
     private UUID uuid;
 
-    private String email;
+    private Email email;
 
     private String imageUrl;
     private String token;
